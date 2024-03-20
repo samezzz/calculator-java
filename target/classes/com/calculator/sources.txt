@@ -1,0 +1,6 @@
+/mnt/c/Users/SamEss/Desktop/programming/java/calculator/src/main/java/com/calculator/../calculator/App.java
+/mnt/c/Users/SamEss/Desktop/programming/java/calculator/src/main/java/com/calculator/../calculator/operations/Addition.java
+/mnt/c/Users/SamEss/Desktop/programming/java/calculator/src/main/java/com/calculator/../calculator/operations/Division.java
+/mnt/c/Users/SamEss/Desktop/programming/java/calculator/src/main/java/com/calculator/../calculator/operations/Multiplication.java
+/mnt/c/Users/SamEss/Desktop/programming/java/calculator/src/main/java/com/calculator/../calculator/operations/Subtraction.java
+/mnt/c/Users/SamEss/Desktop/programming/java/calculator/src/main/java/com/calculator/../utils/InputHelper.java
